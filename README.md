@@ -1,1 +1,2 @@
-# Pro-144
+# Blog-App-Stage-2
+Blog app project
